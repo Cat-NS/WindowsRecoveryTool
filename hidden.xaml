@@ -1,0 +1,15 @@
+﻿<Window x:Class="WindowsRecoveryy.hidden"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WindowsRecoveryy"
+        mc:Ignorable="d"
+        Title="Windows Recovery Tool (WRT)" Height="450" Width="800" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Button Content="твики" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Button Content="модули" HorizontalAlignment="Left" Margin="35,0,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <Label Content="чё пидр думал сюда заглянишь" HorizontalAlignment="Center" Margin="0,180,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
